@@ -44,3 +44,10 @@ This repository contains the sample code from MBZUAI's Introduction to Python co
 - Pytorch training optimizers and criterion
 - Displaying training statistics
 - Model validation
+
+### Session 7 - Custom dataset classes, sampling, transformation, SSH and GPUs  - [Video](https://web.microsoftstream.com/video/53b89787-1ddf-43d0-a605-c52ca47e69c6)
+- PyTorch custom Dataset class
+- Sample transformation in PyTorch
+- Connecting to remote compute nodes using SSH
+- Using Cuda with PyTorch tensors and training models
+- Sampling using the Dataset class using Weighted Random Sampler
